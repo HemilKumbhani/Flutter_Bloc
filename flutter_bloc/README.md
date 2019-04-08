@@ -8,7 +8,7 @@ The Project is built upon BLOC archtecure or BLOC Pattern
 
 BLOC pattern is like MVVM or MVP architecure of android.
 
-The project architecture contains follwoing folders and work on
+The project architecture contains follwoing folders and works on
 ## RxDart
 
 ### blocs
